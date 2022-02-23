@@ -1,7 +1,7 @@
 # Navigation App with Clima Weather App and Calculator in it!
  This app was made for NeoBis as a challange
 # Features
-## Cluma Weather App
+## Clima Weather App
  Shows string represented information about weather on your city real time
  Also you can enter another city to check weather on that city instead
  It's impossible to enter empty city or digits on the field
